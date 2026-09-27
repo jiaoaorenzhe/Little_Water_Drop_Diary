@@ -1,2 +1,70 @@
-# Little_Water_Drop_Diary
-为颅咽管瘤术后垂体功能下降、尿崩症患者设计，帮助每日记录尿量、饮水量和用药情况，支持查看趋势，方便复诊时与医生沟通。/Designed for patients with post-hypophysectomy pituitary dysfunction and diabetes insipidus, it helps record daily urine volume, water intake and medication usage. It supports viewing trends and is convenient for communicating with the doctor during follow-up visits.
+# 💧 小水滴日记 · Little Water Drop Diary
+
+一款简洁的 Android 日常饮水、尿量与用药记录工具。
+
+Little Water Drop Diary 的目标很简单：
+
+> 让每天的记录变得更简单，让一段时间的数据更容易查看。
+
+---
+
+## 📱 应用介绍
+
+**小水滴日记（Little Water Drop Diary）** 是一款面向个人使用的记录应用。
+
+你可以使用它记录：
+
+- 💧 每日饮水量
+- 🚽 每日尿量
+- 💊 每日服药次数
+- 📅 不同日期的数据
+- 🎯 每日饮水目标
+- 📊 饮水完成进度
+
+应用采用简洁的深色界面，让记录操作尽可能快速。
+
+---
+
+## ✨ 主要功能
+
+### 💧 饮水记录
+
+快速记录每次饮水量。
+
+提供常用容量快捷按钮：
+
+- 100 ml
+- 200 ml
+- 300 ml
+- 500 ml
+
+也可以手动输入其他容量。
+
+同时可以记录具体时间。
+
+---
+
+### 🚽 尿量记录
+
+记录每日排尿量以及对应时间。
+
+首页会自动统计当天的总尿量。
+
+---
+
+### 💊 用药记录
+
+记录当天的服药情况，并统计当天的服药次数。
+
+> 本应用仅用于记录，不会根据记录自动修改或推荐药物剂量。
+
+---
+
+### 🎯 每日目标
+
+可以设置每日饮水目标。
+
+例如：
+
+```text
+每日饮水目标：1600 ml
